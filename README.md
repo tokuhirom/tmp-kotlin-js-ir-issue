@@ -78,4 +78,4 @@ BUILD FAILED in 2s
 17 actionable tasks: 6 executed, 11 up-to-date
 ```
 
-
+https://github.com/tokuhirom/tmp-kotlin-js-ir-issue/actions/runs/9560199557/job/26351889058?pr=1
