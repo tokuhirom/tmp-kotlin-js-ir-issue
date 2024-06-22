@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This issue was already resolved by 1.0.0-pre.759
+
 org.jetbrains.kotlin-wrappers:kotlin-wrappers-bom:1.0.0-pre.756 worked fine.
 
 but after "org.jetbrains.kotlin-wrappers:kotlin-wrappers-bom:1.0.0-pre.757", i got following error.
